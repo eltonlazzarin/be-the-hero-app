@@ -65,6 +65,7 @@ This projects was developed at the RocketSeat WorkShop (OminiStack Week) with th
 - [Axios](https://github.com/axios/axios)
 - [React Router v5](https://github.com/ReactTraining/react-router)
 - [React-Icons](http://react-icons.github.io/react-icons/)
+- [intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat)
 - [VS Code](https://code.visualstudio.com)
 
 ## :information_source: How To Use
