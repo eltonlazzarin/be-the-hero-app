@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
     <img alt="GoBarber" src="https://github.com/eltonlazzarin/be-the-hero-app/blob/master/frontend/src/assets/logo.svg" />
     <br>
     Be The Hero FullStack App
