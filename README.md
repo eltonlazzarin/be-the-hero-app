@@ -16,7 +16,7 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/be-the-hero-app">
 
-This projects was developed at the Rocketseat WorkShop (OminiStack Week) with the following technologies:
+This projects was developed at the Rocketseat WorkShop (OminiStack Week 11) with the following technologies:
 
 ### :rocket: Backend Technologies
 
@@ -58,7 +58,7 @@ This project is under the MIT license.
 
 <img alt="Be The Hero Web" src="https://github.com/eltonlazzarin/be-the-hero-app/blob/master/frontend/screenshot/projectactions.gif">
 
-This projects was developed at the Rocketseat WorkShop (OminiStack Week) with the following technologies:
+This projects was developed at the Rocketseat WorkShop (OminiStack Week 11) with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Create React App Configuration Override](https://github.com/sharegate/craco)
