@@ -18,7 +18,7 @@
 
 This projects was developed at the Rocketseat WorkShop (OminiStack Week 11) with the following technologies:
 
-### :rocket: Backend Technologies
+## :rocket: Backend Technologies
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
@@ -54,7 +54,7 @@ This project is under the MIT license.
 
 ---
 
-### :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies (WebApp)
 
 <img alt="Be The Hero Web" src="https://github.com/eltonlazzarin/be-the-hero-app/blob/master/frontend/screenshot/projectactions.gif">
 
